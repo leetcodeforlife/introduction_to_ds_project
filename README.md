@@ -4,8 +4,7 @@ People who interested in becoming Airbnb hosts usually do due diligence before m
 
 ### Thie final blog post about this analysis -- https://medium.com/@shank_king/data-study-about-seattle-airbnb-data-caf6b0116d34
 
-This repo contains jupyter notebook code that conduct this analysis.   
-The code use library of:  
+### This repo contains jupyter notebook code that conduct this analysis. The code use library of:  
 pandas --  is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.   
 numpy -- offers comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more.   
 matplotlib -- Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible.  
